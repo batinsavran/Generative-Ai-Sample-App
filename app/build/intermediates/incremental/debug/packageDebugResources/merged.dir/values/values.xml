@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_go">Go</string>
+    <string name="action_send">Send</string>
+    <string name="action_try">Try it</string>
+    <string name="add_image">Add Image</string>
+    <string name="app_name">Generative AI Sample App</string>
+    <string name="chat_label">Message</string>
+    <string name="menu_chat_description">Sample app demonstrating a conversational UI</string>
+    <string name="menu_chat_title">Build multi-turn conversations (chat)</string>
+    <string name="menu_reason_description">Sample app for uploading images and asking about them</string>
+    <string name="menu_reason_title">Generate text from text-and-image input (multimodal)</string>
+    <string name="menu_summarize_description">Sample app that summarizes text</string>
+    <string name="menu_summarize_title">Generate text from text-only input</string>
+    <string name="reason_hint">Upload an image and then ask a question</string>
+    <string name="reason_label">Question</string>
+    <string name="summarize_hint">Enter text to summarize</string>
+    <string name="summarize_label">Text</string>
+    <style name="Theme.Emptything" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
